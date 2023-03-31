@@ -1,6 +1,6 @@
 Name:		texlive-checkend
 Version:	51475
-Release:	1
+Release:	2
 Summary:	Extend "improperly closed environment" messages
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/checkend
