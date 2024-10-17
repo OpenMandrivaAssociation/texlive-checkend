@@ -3,7 +3,7 @@ Version:	51475
 Release:	2
 Summary:	Extend "improperly closed environment" messages
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/checkend
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/checkend
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/checkend.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/checkend.doc.r%{version}.tar.xz
